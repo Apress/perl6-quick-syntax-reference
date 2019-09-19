@@ -1,0 +1,9 @@
+language: minimal
+
+services:
+  - docker
+
+install:
+  - docker pull jjmerelo/perl6-test-script-output
+
+script: docker run -t -v  $TRAVIS_BUILD_DIR:/test jjmerelo/perl6-test-script-output

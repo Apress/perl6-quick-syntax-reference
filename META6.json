@@ -1,0 +1,15 @@
+{
+  "authors" : [
+    "JJ Merelo"
+  ],
+  "description" : "Check Perl6 Quick Reference scripts",
+  "license" : "Artistic-2.0",
+  "name" : "Perl 6 Quick Reference examples",
+  "perl" : "6.d",
+  "provides" : { },
+  "tags" : [
+    "book"
+  ],
+    "depends" : [ "JSON::Fast", "WWW", "Config::JSON" ],
+  "version" : "0.0.1"
+}
