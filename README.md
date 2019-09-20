@@ -5,7 +5,15 @@ This repository accompanies [*Perl 6 Quick Syntax Reference*](https://www.apress
 [comment]: #cover
 ![Cover image](9781484249550.jpg)
 
-Download the files as a zip using the green button, or clone the repository to your machine using Git.
+Download the files as a zip using the green button, or clone the
+repository to your machine using Git.
+
+## Chapter 14
+
+This is intended as a standalone repo, which is an example of a module
+that could be released to the ecosystem. Please find
+it
+[in its own repo](https://github.com/Apress/perl6-quick-syntax-reference-ch14). 
 
 ## Releases
 
