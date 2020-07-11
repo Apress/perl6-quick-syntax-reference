@@ -8,7 +8,7 @@ role Hand {
 
 my @my-hand does Hand = <5♠ 3♦ 8♦>;
 
-say @my-hand.pick;
+say @my-hand.draw;
 
 =output
 /\d+/
